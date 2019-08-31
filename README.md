@@ -1,4 +1,3 @@
-# multivendor
 <h1>Multivendor Laravel project</h1>
 <h6>code from https://github.com/bagisto/bagisto</h6>
 <h6>demo : https://demo.bagisto.com</h6>
